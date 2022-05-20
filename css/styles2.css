@@ -1,0 +1,167 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+  width: 1600px;
+}
+/*heder*/
+
+/*top-logo*/
+
+.link-logo {
+  text-decoration: none;
+  list-style: none;
+}
+
+.top-logo,
+.buttom-logo {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.logo-color {
+  color: #2196f3;
+}
+
+.list-page {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  list-style: none;
+}
+.link-page {
+  text-decoration: none;
+  color: #212121;
+}
+
+.link-page:hover {
+  color: #2196f3;
+}
+.link-page:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+/*contacts*/
+
+.list-contacts {
+  list-style: none;
+}
+
+.contacts {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+  text-decoration: none;
+}
+
+.contacts:hover {
+  color: #2196f3;
+}
+.contacts:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+/*main*/
+
+/*button-filter*/
+
+.list-filter {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  list-style: none;
+}
+
+.link {
+  cursor: pointer;
+}
+
+.link:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.link:hover {
+  color: #2196f3;
+}
+
+/*mein-content*/
+
+.projects-list {
+  list-style: none;
+}
+
+.projects-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.filter-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/*footer*/
+
+/*buttom-logo*/
+
+.bottom {
+  background-color: #2f303a;
+}
+
+.buttom-logo {
+  color: #ffffff;
+}
+
+/*address*/
+
+.address-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.address-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+
+.address-link:hover {
+  color: #2196f3;
+}
+
+.address-link:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
